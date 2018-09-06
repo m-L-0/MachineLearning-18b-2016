@@ -25,7 +25,7 @@
 
 ## 作业成绩
 
-每次作业任务的评分成绩将发布到 [**[MachineLearning-18b-2016]**](https://github.com/m-L-0/MachineLearning-18b-2016) Repo中。
+每次作业任务的评分成绩将发布到 [**MachineLearning-18b-2016**](https://github.com/m-L-0/MachineLearning-18b-2016) Repo中。
 
 ## 脚注
 
